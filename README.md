@@ -26,7 +26,7 @@ From **AI article/blog writing** to **image generation** and **resume reviewing*
   <img src="https://github.com/Saquib-Anjum/NovaAI/blob/main/asdf/nodejs.svg" alt="Node.js" width="60" height="60"/>
   <img src="https://github.com/Saquib-Anjum/NovaAI/blob/main/asdf/express.svg" alt="Express" width="60" height="60"/>
   <img src="https://github.com/Saquib-Anjum/NovaAI/blob/main/asdf/postgresql-svgrepo-com.svg" alt="PostgreSQL" width="60" height="60"/>
-  <img src="https://github.com/Saquib-Anjum/NovaAI/blob/main/asdf/color.svg" alt="NeonDB" width="60" height="60"/>
+  <img src="https://github.com/Saquib-Anjum/NovaAI/blob/main/asdf/color.svg" alt="NeonDB" width="" height="220"/>
 </p>
 
 Built with the **PERN Stack (PostgreSQL, Express, React, Node.js)** for performance, scalability, and flexibility.
